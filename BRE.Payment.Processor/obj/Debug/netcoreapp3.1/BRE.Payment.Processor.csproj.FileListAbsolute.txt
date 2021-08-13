@@ -1,0 +1,13 @@
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\bin\Debug\netcoreapp3.1\BRE.Payment.Processor.exe
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\bin\Debug\netcoreapp3.1\BRE.Payment.Processor.deps.json
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\bin\Debug\netcoreapp3.1\BRE.Payment.Processor.runtimeconfig.json
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\bin\Debug\netcoreapp3.1\BRE.Payment.Processor.runtimeconfig.dev.json
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\bin\Debug\netcoreapp3.1\BRE.Payment.Processor.dll
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\bin\Debug\netcoreapp3.1\BRE.Payment.Processor.pdb
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\obj\Debug\netcoreapp3.1\BRE.Payment.Processor.AssemblyInfoInputs.cache
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\obj\Debug\netcoreapp3.1\BRE.Payment.Processor.AssemblyInfo.cs
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\obj\Debug\netcoreapp3.1\BRE.Payment.Processor.csproj.CoreCompileInputs.cache
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\obj\Debug\netcoreapp3.1\BRE.Payment.Processor.dll
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\obj\Debug\netcoreapp3.1\BRE.Payment.Processor.pdb
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\obj\Debug\netcoreapp3.1\BRE.Payment.Processor.genruntimeconfig.cache
+C:\Users\sudhi\source\repos\BRE.Payment.Processor\BRE.Payment.Processor\obj\Debug\netcoreapp3.1\BRE.Payment.Processor.csprojAssemblyReference.cache
